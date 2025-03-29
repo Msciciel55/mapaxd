@@ -2,7 +2,7 @@
     {
         "title": "Mapa",
         "description": "długo ładuje",
-        "thumbnail": "assets/card/sciana.webp",
+        "thumbnail": "assets/models/mapa.webp",
         "model": "assets/models/mapa.glb",
         "category": ""
     }

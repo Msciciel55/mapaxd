@@ -59,7 +59,7 @@ h2 {
   left: 0;
   width: 100%;
   height: 100%;
-  background: url('assets/img/ciesla.webp') no-repeat center center/cover;
+  background: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo7lKVlwIhWpVVm88YpWNM5rUC2dF36rRd-A&s') no-repeat center center/cover;
   filter: blur(10px);
   z-index: -1;
 }
