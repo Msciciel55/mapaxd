@@ -9,7 +9,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const pageName = document.body.getAttribute('data-page');
     const jsonUrl = `https://raw.githubusercontent.com/Msciciel55/mapaxd/refs/heads/main/dane/${pageName}.json`;
     let models = [];
-git 
+
     async function fetchModels() {
         try {
             const response = await fetch(jsonUrl);
