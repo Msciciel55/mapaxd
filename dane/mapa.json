@@ -1,0 +1,9 @@
+[
+    {
+        "title": "Mapa",
+        "description": "długo ładuje",
+        "thumbnail": "assets/card/sciana.webp",
+        "model": "assets/models/mapa.glb",
+        "category": ""
+    }
+]   
