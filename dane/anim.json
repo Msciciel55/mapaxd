@@ -1,0 +1,16 @@
+[
+    {
+        "title": "maszyny",
+        "description": "",
+        "thumbnail": "assets/models/mapa.webp",
+        "model": "assets/models/animka.glb",
+        "category": ""
+    },
+    {
+        "title": "armata",
+        "description": "",
+        "thumbnail": "assets/models/mapa.webp",
+        "model": "assets/models/armata.glb",
+        "category": ""
+    }
+]   

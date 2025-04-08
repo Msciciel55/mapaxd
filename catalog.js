@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 material.pbrMetallicRoughness.setRoughnessFactor(1);
                 modelViewerElement.minCameraOrbit = '-Infinity -Infinity 0.1m';
                 modelViewerElement.maxCameraOrbit = 'Infinity Infinity Infinity';
-                modelViewerElement.cameraOrbit = '0deg 75deg 10%';
+                modelViewerElement.cameraOrbit = '0deg 75deg 100%';
                 modelViewerElement.setAttribute('scroll-sensitivity', '0.5');
             });
         }
