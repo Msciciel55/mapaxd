@@ -12,5 +12,33 @@
         "thumbnail": "assets/models/mapa.webp",
         "model": "assets/models/armata.glb",
         "category": ""
+    },
+    {
+        "title": "waga",
+        "description": "",
+        "thumbnail": "assets/models/mapa.webp",
+        "model": "assets/models/waga.glb",
+        "category": ""
+    },
+    {
+        "title": "waga2",
+        "description": "",
+        "thumbnail": "assets/models/mapa.webp",
+        "model": "assets/models/waga2.glb",
+        "category": ""
+    },
+    {
+        "title": "dzwig",
+        "description": "",
+        "thumbnail": "assets/models/mapa.webp",
+        "model": "assets/models/dzwig.glb",
+        "category": ""
+    },
+    {
+        "title": "katarynka",
+        "description": "",
+        "thumbnail": "assets/models/mapa.webp",
+        "model": "assets/models/katarynka.glb",
+        "category": ""
     }
 ]   
