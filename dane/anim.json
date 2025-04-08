@@ -40,5 +40,12 @@
         "thumbnail": "assets/models/mapa.webp",
         "model": "assets/models/katarynka.glb",
         "category": ""
+    },
+    {
+        "title": "kasa sklepowa",
+        "description": "",
+        "thumbnail": "assets/models/mapa.webp",
+        "model": "assets/models/kasa.glb",
+        "category": ""
     }
 ]   
